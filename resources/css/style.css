@@ -57,3 +57,11 @@ h3 {
   border-top: solid 1px gray;
   padding: 3rem 0 3rem 0;
 }
+
+#article p#tap {
+  color: black;
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.8rem;
+
+  letter-spacing: 0.4rem;
+}
