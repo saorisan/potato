@@ -36,7 +36,7 @@ h3 {
 }
 
 .container-fluid#main-container {
-  margin: 2rem;
+  margin: 6rem;
 }
 
 .photos {
@@ -50,7 +50,7 @@ h3 {
   font-size: 1.3rem;
   line-height: 2rem;
   color: gray;
-  margin: 3rem;
+  margin: 6rem;
 }
 
 .footer .container {
